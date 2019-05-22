@@ -1,8 +1,4 @@
 print("hello!");
-<<<<<<< HEAD
-features branch
-new changes
-new changes
-=======
 features branch;
->>>>>>> master
+new changes;
+new changes;
